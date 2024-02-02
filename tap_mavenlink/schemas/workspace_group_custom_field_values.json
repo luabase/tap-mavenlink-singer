@@ -73,6 +73,10 @@
         "value": {
             "type": ["null", "string"],
             "description": "The value applied to the subject."
+        },
+        "workspace_group_id": {
+            "type": ["null", "string"],
+            "description": "The ID of the workspace group containing the custom field value."
         }
     }
 }
