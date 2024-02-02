@@ -12,3 +12,4 @@ env/
 run.sh
 debug/
 stitch/
+*.ipynb
